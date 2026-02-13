@@ -2,12 +2,6 @@
 
 🎯 *Aspiring Software Developer | Full-Stack Web & Backend Focus*
 
-<p align="center">
-  <a href="https://github.com/Kuldeep-Kumr">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kuldeep-Kumr&show_icons=true&theme=radical" alt="Kuldeep's GitHub Stats" />
-  </a>
-</p>
-
 ## 👨‍💻 About Me
 I’m a passionate developer focused on building real-world web applications and scalable backend systems using modern technologies.  
 I enjoy learning, contributing to open source, and solving problems with clean, reliable code.
