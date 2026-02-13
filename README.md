@@ -28,6 +28,5 @@ Here are some highlighted projects on my GitHub:
 
 ## 📫 Let’s Connect
 - 🔗 LinkedIn: *https://www.linkedin.com/in/kuldeep-kumar-singh/*
-- 📄 Resume: *https://drive.google.com/file/d/1kLmjUN-Nrbc0Iq-HhxyfIkwo00SPgbQd/view?usp=drive_link*
 - 📧 Email: *kuldeepkumar0329@gmail.com*
 
