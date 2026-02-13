@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hey, I’m **Kuldeep Kumar**
 
-<!--
-**Kuldeep-Kumr/Kuldeep-Kumr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 *Aspiring Software Developer | Full-Stack Web & Backend Focus*
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Kuldeep-Kumr">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kuldeep-Kumr&show_icons=true&theme=radical" alt="Kuldeep's GitHub Stats" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I’m a passionate developer focused on building real-world web applications and scalable backend systems using modern technologies.  
+I enjoy learning, contributing to open source, and solving problems with clean, reliable code.
+
+⭐️ I’m currently:
+- Exploring backend architectures & databases
+- Learning best practices for documentation and open-source
+- Building full-stack projects with practical use cases
+
+## 🛠️ Skills
+- **Languages:** Python, JavaScript, Java, HTML, CSS
+- **Frontend:** Angular, React, basic UI design
+- **Backend:** Django, FastApi, Flask, Node.js, Express
+- **Databases:** MongoDB, SQL basics, Cassandra, Snowflake
+- **Tools:** Git, GitHub, Postman
+
+## 👾 Projects
+Here are some highlighted projects on my GitHub:
+
+### ⭐ Featured
+- **[Foodie](https://github.com/Kuldeep-Kumr/Foodie)** – Online food ordering platform (UI + logic, ongoing)  
+  _HTML, CSS, JavaScript_
+
+
+## 📫 Let’s Connect
+- 🔗 LinkedIn: *https://www.linkedin.com/in/kuldeep-kumar-singh/*
+- 📄 Resume: *https://drive.google.com/file/d/1kLmjUN-Nrbc0Iq-HhxyfIkwo00SPgbQd/view?usp=drive_link*
+- 📧 Email: *kuldeepkumar0329@gmail.com*
+
