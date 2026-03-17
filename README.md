@@ -1,4 +1,4 @@
-# 👋 Hey, I’m **Kuldeep Kumar**
+# 👋 Hey, I’m **Kuldeep Kumar Singh**
 
 🎯 *Aspiring Software Developer | Full-Stack Web & Backend Focus*
 
